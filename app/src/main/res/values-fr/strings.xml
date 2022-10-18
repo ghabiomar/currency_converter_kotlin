@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">convertisseur de devises</string>
+    <string name="currency_converter">convertisseur de devises</string>
+    <string name="from">de</string>
+    <string name="to">à</string>
+    <string name="amount">montant</string>
+    <string name="convert">convertir</string>
+    <string name="en">Fr</string>
+</resources>
